@@ -2,10 +2,10 @@
 Tensorflow implementation of the paper: [DualGAN: Unsupervised Dual Learning for Image-to-Image Translation](https://arxiv.org/abs/1704.02510) <br/>
 [Link to Complete Dataset](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/)
 
+
 ## Folders in the repository:
 
-1. **datasets** : Contains 2 datasets namely "facades.zip" and "day-night.zip" which were used to train the model.
-2. **results** : Contains the results obtained from our implementation for each of the above dataset. <br />
+1. **results** : Contains the results obtained from our implementation for each of the above dataset. <br />
   2.1 Receptive fields used for the day-night dataset: **70x70, 16x16, 1x1** <br />
   2.2 Receptive fields used for the facades dataset: **70x70**
 
